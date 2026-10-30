@@ -1,0 +1,20 @@
+{
+  "name": "rust-backend-skills",
+  "version": "0.1.0",
+  "description": "Independent skills for Rust backend development with Tokio, axum, and SQLx.",
+  "author": {
+    "name": "Dankosik",
+    "url": "https://github.com/Dankosik"
+  },
+  "homepage": "https://github.com/Dankosik/rust-backend-skills",
+  "repository": "https://github.com/Dankosik/rust-backend-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "rust",
+    "backend",
+    "tokio",
+    "axum",
+    "sqlx"
+  ]
+}

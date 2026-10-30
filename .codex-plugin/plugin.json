@@ -1,0 +1,38 @@
+{
+  "name": "rust-backend-skills",
+  "version": "0.1.0",
+  "description": "Independent skills for Rust backend development with Tokio, axum, and SQLx.",
+  "author": {
+    "name": "Dankosik",
+    "url": "https://github.com/Dankosik"
+  },
+  "homepage": "https://github.com/Dankosik/rust-backend-skills",
+  "repository": "https://github.com/Dankosik/rust-backend-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "rust",
+    "backend",
+    "tokio",
+    "axum",
+    "sqlx"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rust Backend Skills",
+    "shortDescription": "Focused skills for Rust backend development.",
+    "longDescription": "18 independent skills for Rust services: ownership, Tokio tasks, axum APIs, SQLx persistence, reliability, and focused verification. Preserve the project architecture and technical choices.",
+    "developerName": "Dankosik",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Implement this Rust backend requirement within our existing architecture.",
+      "Review cancellation and shutdown in this Tokio worker without editing files.",
+      "Check transaction and retry behavior in this SQLx operation."
+    ],
+    "brandColor": "#B75D36",
+    "websiteURL": "https://github.com/Dankosik/rust-backend-skills",
+    "privacyPolicyURL": "https://github.com/Dankosik/rust-backend-skills/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/Dankosik/rust-backend-skills/blob/main/LICENSE"
+  }
+}
